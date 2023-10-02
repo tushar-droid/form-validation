@@ -1,0 +1,27 @@
+{
+  "name": "form-validation",
+  "version": "1.0.0",
+  "description": "simple Form validation with JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushar-droid/form-validation.git"
+  },
+  "author": "Tushar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tushar-droid/form-validation/issues"
+  },
+  "homepage": "https://github.com/tushar-droid/form-validation#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "css-loader": "^6.8.1",
+    "style-loader": "^3.3.3"
+  }
+}
